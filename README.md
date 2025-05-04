@@ -6,4 +6,4 @@ To run this
 
 1. Clone or download this repo
 2. open terminal and run "npm install"
-3. then run "nppm run dev"
+3. then run "npm run dev"
